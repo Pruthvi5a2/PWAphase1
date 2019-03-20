@@ -1,0 +1,47 @@
+{
+  "basics":
+  {
+    "img":"images/pro.jpg",
+    "NAME":"Admin",
+    "Email":"Admin7@gmail.com"
+  },
+  "career":
+  {
+    "objective":"I want to enjoy like aynthing"
+  },
+  "education":[
+    {
+      "SNo":"1",
+      "Degree":"B.Tec",
+      "Institute":"MITS",
+      "POY":"2021"
+    },
+    {
+      "SNo":"2",
+      "Degree":"Inter",
+      "Institute":"APRJC",
+      "POY":"2017"
+    },
+    {
+      "SNo":"3",
+      "Degree":"S.S.C",
+      "Institute":"C.JEMS",
+      "POY":"2015"
+    }
+  ],
+  "skills":[
+    {
+      "info":"c"
+    },
+    {
+      "info":"c++"
+    },
+    {
+      "info":"java"
+    },
+    {
+      "info":"python"
+    }
+  ]
+
+}

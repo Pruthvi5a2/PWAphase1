@@ -1,0 +1,32 @@
+body{
+  background:#FF8C00;
+
+}
+img{
+  width:100%;
+}
+.main
+{
+  display:flex;
+  justify-content:space-around;
+}
+.sub
+{
+  border:2px red;
+  justify-content: center;
+  background:lightgray;
+  margin:2% 2%;
+  text-align:justify;
+  box-shadow:5px 5px red;
+  width:40%;
+}
+@media screen and (min-width:320px) and (max-width:480px) {
+  .parent{
+    flex-wrap:wrap;
+
+  }
+  .sub{
+    flex-wrap: wrap;
+      width:90%;
+  }
+}

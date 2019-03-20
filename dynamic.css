@@ -1,0 +1,39 @@
+body{
+  background:#FF8C00;
+
+}
+img{
+  width:50%;
+}
+table{
+  width:75%;
+  border-collapse: collapse;
+  border: 2px solid blue;
+}
+
+.head
+{
+  background-color: #00BFFF;
+  display:flex;
+  justify-content:space-around;
+}
+.sub1{
+  width:25%;
+  text-align: center;
+  border:2px red;
+  background:lightgray;
+  box-shadow: 5px 5px red;
+  border-radius: 30px;
+  margin:2%;
+}
+.sub2
+{
+  margin:2%;
+    width:65%;
+  border:2px red;
+  background:lightgray;
+  text-align:justify;
+  box-shadow:5px 5px red;
+  padding-left: 2%;
+  border-radius: 30px;
+}
